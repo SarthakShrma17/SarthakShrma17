@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Mansi Dixit](https://github.com/mansidixit23) 👨‍💻
+### Hi there 👋, I'm [Sarthak Sharma](https://github.com/mansidixit23) 👨‍💻
 
 <p align="center">
   <img src="https://th.bing.com/th/id/OIP.vZyERGwMkxtF3A5pfYmJUwAAAA?rs=1&pid=ImgDetMain" height="160"/>
